@@ -1,0 +1,21 @@
+{
+    "name": "dianbugas/yii2-thumbnail",
+    "description": "Widget Thumbnail bootstrap for Yii Framework 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","thumbnail","bootstrap"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Ardiansyah",
+            "email": "dianbugas@gmail.ocm"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dianbugas\\bs\\": ""
+        }
+    }
+}
